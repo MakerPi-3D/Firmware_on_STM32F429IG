@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=D:/code/STM32F429/Inc
+HeaderPath=D:/code/Firmware_on_STM32F429IG/Inc
 HeaderFiles=ffconf.h;fatfs.h;user_diskio.h;FreeRTOSConfig.h;usb_host.h;usbh_conf.h;stm32f4xx_it.h;stm32f4xx_hal_conf.h;main.h;
-SourcePath=D:/code/STM32F429/Src
+SourcePath=D:/code/Firmware_on_STM32F429IG/Src
 SourceFiles=fatfs.c;user_diskio.c;freertos.c;usb_host.c;usbh_conf.c;stm32f4xx_it.c;stm32f4xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]
